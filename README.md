@@ -55,13 +55,3 @@ Meu foco está no desenvolvimento de aplicações, automação de processos e ex
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux&theme=dark" alt="Git, GitHub, Docker, VS Code e Linux"/>
 </p>
-
-## 🚀 Projetos em destaque
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🧾 Contas a Pagar</h3>
-      <p>Aplicação Python voltada ao gerenciamento e controle de contas a pagar.</p>
-      <a href="https://github.com/Givaldo-Andrade/projeto_python">
-        <img src="https://img.shields.io/badge/Ver%20projeto-
